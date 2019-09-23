@@ -1,0 +1,10 @@
+wlan:
+wlan0
+mon:
+mon0
+UseDefMon:
+Yes
+UseLog:
+Yes
+LogName:
+log.txt
